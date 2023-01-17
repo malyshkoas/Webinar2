@@ -59,16 +59,16 @@
 // 161 -> да
 
 
-// Console.WriteLine("Введите число: ");
-// int num1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
 
-// if (num1 % 7 == 0 && num1 % 23 == 0)
-// {
-//     System.Console.WriteLine("да");
-// }
-// else
-// {
-//     System.Console.WriteLine("нет");
-// }
+if (num1 % 7 == 0 && num1 % 23 == 0)
+{
+    System.Console.WriteLine("да");
+}
+else
+{
+    System.Console.WriteLine("нет");
+}
 
 
